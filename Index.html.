@@ -1,2 +1,40 @@
 
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Komali - Portfolio</title>
+</head>
+
+<body>
+    <h1>Hi, I'm Komali</h1>
+    <h2>B.Sc. AI & Data Science Student</h2>
+
+    <h2>About Me</h2>
+    <p>
+        I am a B.Sc. AI & Data Science student interested in
+        Artificial Intelligence, Machine Learning, Data Science
+        and Quantum Computing.
+    </p>
+
+    <h2>Skills</h2>
+    <p>Python, Artificial Intelligence, Machine Learning, Data Science, Quantum Computing</p>
+
+    <h2>Projects</h2>
+
+    <h3>Interactive Hilbert Space & Quantum State Simulator</h3>
+    <p>
+        An educational simulator that helps users understand
+        Hilbert Space and quantum states interactively.
+    </p>
+
+    <h3>AI Government Services Agent</h3>
+    <p>
+        An AI-based platform designed to help users understand
+        government services and schemes.
+    </p>
+
+    <h2>Career Goal</h2>
+    <p>To build innovative AI solutions and contribute to society.</p>
+</body>
+</html>
